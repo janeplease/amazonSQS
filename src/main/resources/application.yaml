@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIA243ZOY3AZZUG3EH5
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/749189646017/vaishqueue
